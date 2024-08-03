@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stm32_lcd.h": "c",
+        "stddef.h": "c",
+        "fonts.h": "c",
+        "lcd_io.h": "c",
+        "ili9341.h": "c",
+        "ili9341_reg.h": "c",
+        "ili9341_port.h": "c",
+        "stdlib.h": "c",
+        "stm32g0xx_hal.h": "c",
+        "main.h": "c",
+        "ili9341_driver_port.h": "c",
+        "compare": "c"
+    }
+}
