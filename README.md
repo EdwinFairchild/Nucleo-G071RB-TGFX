@@ -1,0 +1,3 @@
+### Nucleo-G071RB TouchGFX + X-Nucleo-GFX01M2
+<img src="images/nucleo-g071rb.png" alt="MCU" width="207"/>
+<img src="images/x-nucleo-gfx01m2.png" alt="Display" width="300"/>
